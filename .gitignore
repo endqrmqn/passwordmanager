@@ -7,6 +7,7 @@ data/
 *.db
 passwords.db
 *.bin
+salts/
 
 # dev secrets
 .env
