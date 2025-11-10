@@ -39,6 +39,6 @@ Use or modification is at your own risk.
 
 ---
 
-## 🪪 License
+## License
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for full details.
