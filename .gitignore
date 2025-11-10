@@ -1,0 +1,18 @@
+# build artifacts
+build/
+cmake-build-*/
+
+# runtime/data (never commit DBs)
+data/
+*.db
+passwords.db
+*.bin
+
+# dev secrets
+.env
+secrets.txt
+
+# OS/IDE
+.DS_Store
+.vscode/
+*.swp

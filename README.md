@@ -1,6 +1,6 @@
 # Personal Password Manager
 
-You are currently looking at the beta code/build. While the code is not meant to be safe, consider this code **even more unsafe**!!
+You are currently looking at the beta code/build. This is an experimental prototype; assume it is **not** secure for production use
 
 
 A lightweight C++ password manager and generator with local encryption and a simple GUI.  
